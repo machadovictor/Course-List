@@ -1,0 +1,46 @@
+/*
+Author: Victor Machado
+Date: February 2022
+File Name: style.css
+*/
+caption {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding: 2%;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-color: #3498DB;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    color: #fff;
+    background-color: #3049C5;
+}
+
+.two {
+    background-color: #7EF397;
+    color: green;
+}
+
+.point-three-three {
+    background-color: #90D0E8;
+    color: #002BD9 ;
+}
+
+.point-six-six {
+    background-color: RGB(230,180,180);
+    color: red
+}
+
+.seven {
+    background-color: cyan;
+    color: black;
+}
